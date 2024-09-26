@@ -1,0 +1,43 @@
+header{
+    background-color: aqua;
+    padding: 30px;
+    margin-left: 0px;
+    text-align: center;
+}
+footer{
+    
+
+    margin-top:100px;
+    background-color: aqua;
+    display: block;
+    position: relative;
+    top:80px;
+    padding: 30px;
+    text-align: center;
+}
+.container{
+    padding:20px;
+    /* text-align: center */
+}
+input{
+    width:300px;
+    display: block;
+    text-align: center;
+    margin:  0 auto;
+}
+button{
+    display:block;
+ 
+    margin: 10px auto;
+    min-width:250px;
+    background-color: aqua;
+    border: none;
+    padding: 10px;
+}
+#display{
+   text-align:center;
+}
+img{
+    max-width:350px;
+    margin: 10px;
+}
